@@ -57,11 +57,11 @@ $postcode = $matches1[1][0];
 
 ////////////////////////////===[Zone Details]
 
-$username = ' Your Zone Username';
-$password = 'zone password';
-///$port = zone port;
+$username = ' vixuehhf-dest';
+$password = 'le5ht6bdecvf';
+///$port = 80;
 $session = mt_rand();
-$super_proxy = 'Zone url';
+$super_proxy = ' 209.127.191.180';
 
 ////////////////////////////===[For Authorizing Cards]
 
